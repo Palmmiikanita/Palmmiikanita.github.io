@@ -3,13 +3,15 @@ layout: page
 title: About Kanita
 permalink: /about/
 ---
-
-Some information about you!
+นางสาวคุณิตา โสทิน วท.บ.57.11.5
+รหัสนักศึกษา 57122420503
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+นักศึกษาชั้นปีที่ 4 สาขาวิทยาการคอมพิวเตอร์ 
+คณะวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏอุบลราชธานี
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+kanita.scs57@ubru.ac.th
