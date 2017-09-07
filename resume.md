@@ -6,6 +6,7 @@ permalink: /resume/
 BS.C. Computer Science, Ubon Ratchathani Rajabhat University
 
 # Experience
+- ทำเว็บไซต์ เรื่อง 10 อันดับสุนัขแสนรู้ เขียนด้วยภาษา HTML
 - ทำโครงงาน เรื่อง ระบบจองห้องประชุมออนไลน์ เขียนด้วยภาษา PHP
 
 # Educayion
